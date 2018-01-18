@@ -10,6 +10,7 @@ keys = {
     'j': 0x24, # Camera left
     'h': 0x23, # Right hand attack
     'u': 0x16, # Right hand heavy attack
+    'o': 0x18, # Lock on to enemy
     'left shift': 0x2A, # Left weapon action block
     'tab': 0x0F, # Left weapon action parry
     'e': 0x12, # Use item
